@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Ngan Kim Khong's CS
 ---
-# Isaac Newton
+# Ngan Kim Khong
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
